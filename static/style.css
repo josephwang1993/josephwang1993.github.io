@@ -1,0 +1,33 @@
+.progress {
+    background-color: #dcd4b5;
+}
+
+.progress-bar {
+    background-color: #deb693;
+}
+
+.jumbotron {
+    background-color: #ecdec4;
+}
+
+.jumbotron-heading {
+    color: #84766b;
+}
+
+.no-jumbotron {
+    padding: 64px 32px;
+}
+
+.paragraph-content {
+    color: #b1a899;
+}
+
+.text-muted {
+    color: #afa38c !important;
+}
+
+.skill-title {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #84766b;
+}
